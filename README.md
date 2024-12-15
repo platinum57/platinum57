@@ -40,7 +40,6 @@
 ## 📊 GitHub Stats
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=platinum57&show_icons=true&include_all_commits=true&bg_color=20232a&border_color=58A6FF&title_color=58A6FF&text_color=fff&icon_color=58A6FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=platinum57&layout=compact&bg_color=20232a&border_color=58A6FF&title_color=58A6FF&text_color=fff"/>
 </p>
 
 ## 📜 Certifications
