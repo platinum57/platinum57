@@ -43,8 +43,7 @@
 </p>
 
 ## 📜 Certifications
-AWS Certified Solutions Architect - Professional | Amazon Web Services | 2024.01
-
-SQL Developer (SQLD, SQL 개발자) | Korea Data Agency | 2022.06
+**SQL Developer (SQLD, SQL 개발자)** | Korea Data Agency | 2022.06 <br/>
+**AWS Certified Solutions Architect - Professional** | Amazon Web Services | 2024.01
 
 </div>
