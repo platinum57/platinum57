@@ -32,7 +32,6 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
 
 ## ✨ GitHub Achievements
-<img src="https://github.com/primer/octicons/raw/main/icons/trophy-24.svg" width="20" height="20"> **Ultra Committer (65pt)** <img src="https://github.com/primer/octicons/raw/main/icons/trophy-24.svg" width="20" height="20">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=platinum57&theme=nord&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
