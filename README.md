@@ -48,10 +48,4 @@ AWS Certified Solutions Architect - Professional | Amazon Web Services | 2024.01
 
 SQL Developer (SQLD, SQL 개발자) | Korea Data Agency | 2022.06
 
-### 🏆 Baekjoon Tier
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=platinum57s)](https://solved.ac/platinum57s)
-
----
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fplatinum57&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
-
 </div>
